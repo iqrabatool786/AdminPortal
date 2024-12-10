@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,32 +58,111 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:25:40.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T14:20:18.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-10T14:19:27.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T14:19:26.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:19:15.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:18:54.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T10:39:01.027Z"
+              "WhenOpened": "2024-12-10T10:39:01.027Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Login\\Login.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Login\\Login.cshtml",
               "ToolTip": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Login\\Login.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Login\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-10T10:38:03.489Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\Index.cshtml",
@@ -67,19 +170,21 @@
               "RelativeToolTip": "WebApplication1\\Views\\Employee\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-10T10:37:45.452Z"
+              "WhenOpened": "2024-12-10T10:37:45.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAABhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-10T10:24:41.425Z"
+              "WhenOpened": "2024-12-10T10:24:41.425Z",
+              "EditorCaption": ""
             }
           ]
         }

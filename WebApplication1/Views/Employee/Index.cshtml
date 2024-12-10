@@ -1,0 +1,84 @@
+﻿<h2 class="mb-4">Employee Dashboard</h2>
+<div class="card shadow-sm mb-4">
+    <div class="card-body">
+        <h4 class="card-title">Add New Project</h4>
+        <form asp-action="Create" method="post" enctype="multipart/form-data">
+            <div class="mb-3">
+                <label for="CompanyName" class="form-label">Company Name</label>
+                <input type="text" class="form-control" id="CompanyName" name="CompanyName" required />
+            </div>
+            <div class="mb-3">
+                <label for="ServiceRequired" class="form-label">Service Required</label>
+                <input type="text" class="form-control" id="ServiceRequired" name="ServiceRequired" required />
+            </div>
+            <div class="row">
+                <div class="col-md-6 mb-3">
+                    <label for="StartDate" class="form-label">Start Date</label>
+                    <input type="date" class="form-control" id="StartDate" name="StartDate" required />
+                </div>
+                <div class="col-md-6 mb-3">
+                    <label for="CompletionDate" class="form-label">Completion Date</label>
+                    <input type="date" class="form-control" id="CompletionDate" name="CompletionDate" required />
+                </div>
+            </div>
+            <div class="mb-3">
+                <label for="Status" class="form-label">Status</label>
+                <select class="form-select" id="Status" name="Status" required>
+                    <option value="Started">Started</option>
+                    <option value="In Progress">In Progress</option>
+                    <option value="Completed">Completed</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label for="Document" class="form-label">Upload Document</label>
+                <input type="file" class="form-control" id="Document" name="Document" required />
+            </div>
+            <button type="submit" class="btn btn-success w-100">Save</button>
+        </form>
+    </div>
+</div>
+
+<h4 class="mb-4">Your Projects</h4>
+<table class="table table-bordered table-hover">
+    <thead class="table-light">
+        <tr>
+            <th>Company Name</th>
+            <th>Service Required</th>
+            <th>Start Date</th>
+            <th>Completion Date</th>
+            <th>Status</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var project in Model)
+        {
+            <tr>
+                <td>@project.CompanyName</td>
+                <td>@project.ServiceRequired</td>
+                <td>@project.StartDate.ToString("yyyy-MM-dd")</td>
+                <td>@project.CompletionDate.ToString("yyyy-MM-dd")</td>
+                <td>
+                    <span class="badge
+                        @(project.Status == "Started" ? "bg-danger" :
+                          project.Status == "In Progress" ? "bg-warning text-dark" : "bg-success")">
+                        @project.Status
+                    </span>
+                </td>
+                <td>
+                    <a href="@Url.Action("Edit", "Employee", new { id = project.ProjectId })" class="btn btn-sm btn-warning">
+                        Edit
+                    </a>
+                </td>
+                <td>
+
+                    <form asp-action="Delete" method="post" class="d-inline">
+                        <input type="hidden" name="Id" value="@project.ProjectId" />
+                        <button class="btn btn-sm btn-danger">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

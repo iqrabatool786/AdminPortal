@@ -1,0 +1,37 @@
+﻿@model WebApplication1.Models.Project
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <input type="hidden" name="ProjectId" value="@Model.ProjectId" />
+    <input type="hidden" name="EmployeeId" value="@Model.EmployeeId" />
+    <div class="mb-3">
+        <label for="CompanyName" class="form-label">Company Name</label>
+        <input type="text" class="form-control" id="CompanyName" name="CompanyName" value="@Model.CompanyName" required />
+    </div>
+    <div class="mb-3">
+        <label for="ServiceRequired" class="form-label">Service Required</label>
+        <input type="text" class="form-control" id="ServiceRequired" name="ServiceRequired" value="@Model.ServiceRequired" required />
+    </div>
+    <div class="row">
+        <div class="col-md-6 mb-3">
+            <label for="StartDate" class="form-label">Start Date</label>
+            <input type="date" class="form-control" id="StartDate" name="StartDate" value="@Model.StartDate.ToString("yyyy-MM-dd")" required />
+        </div>
+        <div class="col-md-6 mb-3">
+            <label for="CompletionDate" class="form-label">Completion Date</label>
+            <input type="date" class="form-control" id="CompletionDate" name="CompletionDate" value="@Model.CompletionDate.ToString("yyyy-MM-dd")" required />
+        </div>
+    </div>
+    <div class="mb-3">
+        <label for="Status" class="form-label">Status</label>
+        <select class="form-select" id="Status" name="Status" required>
+            <option value="Started">Started</option>
+            <option value="In Progress">In Progress</option>
+            <option value="Completed">Completed</option>
+        </select>
+    </div>
+    <div class="mb-3">
+        <label for="Document" class="form-label">Upload Document</label>
+        <input type="file" class="form-control" id="Document" name="Document" />
+    </div>
+    <button type="submit" class="btn btn-success w-100">Save Changes</button>
+</form>

@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|c:\\users\\owaisraza\\source\\repos\\adminportal\\webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03755494-79AB-4AD3-8389-2F29B4880A24}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T10:39:01.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:38:03.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:37:45.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\OwaisRaza\\source\\repos\\AdminPortal\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T10:24:41.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
